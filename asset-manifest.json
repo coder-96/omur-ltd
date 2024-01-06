@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/omur-ltd/static/css/main.81a4c6f0.css",
+    "main.js": "/omur-ltd/static/js/main.bae4f63e.js",
+    "static/media/bg-first-section3.jpg": "/omur-ltd/static/media/bg-first-section3.d6ebf78330513aedd46d.jpg",
+    "static/media/jk3.jpg": "/omur-ltd/static/media/jk3.ef7ddfe8b57fcceab2d0.jpg",
+    "static/media/bg-first-section4.jpg": "/omur-ltd/static/media/bg-first-section4.5b6ed82cddcf56ba57c3.jpg",
+    "static/media/engineering.jpg": "/omur-ltd/static/media/engineering.5aa8eba039b4ba90c5e6.jpg",
+    "static/media/implementation.png": "/omur-ltd/static/media/implementation.064cacec3b06baf2e3b5.png",
+    "static/media/jk4.jpg": "/omur-ltd/static/media/jk4.d5f62670aa5451ac78fe.jpg",
+    "static/media/jk2.jpg": "/omur-ltd/static/media/jk2.5704fe74c55c791ad3f1.jpg",
+    "static/media/jk1.jpg": "/omur-ltd/static/media/jk1.42c6b3830bf3b4eb3259.jpg",
+    "static/media/podklyuch.jpg": "/omur-ltd/static/media/podklyuch.37228fcac2032a843c9f.jpg",
+    "static/media/logo.png": "/omur-ltd/static/media/logo.e1dafd5b2bcab10eb544.png",
+    "static/media/development-eng.jpg": "/omur-ltd/static/media/development-eng.e19c313b9eabb1881b1b.jpg",
+    "index.html": "/omur-ltd/index.html",
+    "main.81a4c6f0.css.map": "/omur-ltd/static/css/main.81a4c6f0.css.map",
+    "main.bae4f63e.js.map": "/omur-ltd/static/js/main.bae4f63e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a4c6f0.css",
+    "static/js/main.bae4f63e.js"
+  ]
+}
